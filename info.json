@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "60dea82471dab4b7516cf0eb0ab4400c9b4a88b2",
+    "author": "Dominic Bennett <dominic.john.bennett@gmail.com>",
+    "time": "2020-06-13 21:14:43",
+    "files": 10,
+    "merge": false,
+    "message": "fix Non-file package-anchored link issue from cran check\n"
+  },
+  "remote": "https://github.com/ropensci/outsider.base",
+  "pkg": "outsider.base"
+}
